@@ -1,0 +1,6 @@
+Se adjuntaron 3 archivos . 
+
+CREATE-DDL2.SQL  ----------- Script de la creación de las tablas 
+INSERT.SQL  ---------------- Script de la inserción de datos  a las tablas 
+
+La_pampa.SQL -------------- Una ves terminado el trabajo se opto por exportar la base de datos desde PHPMyAdmin en donde se ecuntran todo lo trabajado y plasmado en el PDF . Se uso esta alternativa ya que tuve que modificar varios datos de inconsistencia cuando se generaron en MOckAroo . En este archivo se encuntran todas las vistas , funciones , procedimientos almacenados , triggers , tablas y datos . 
